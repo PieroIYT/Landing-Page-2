@@ -1,0 +1,39 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+header {
+    text-align: right;
+  min-height: 120px;
+}
+
+
+header img { float: left; }
+
+header nav a:first-child{
+  front-weight: bold;
+}
+header nav a:last-child{
+  color: red;
+}
+ 
+#LOGO {
+  WIDT: 50px
+}
+
+header nav .link {
+  border-width: 1px;
+  border-color: red;
+  border-style: solid;
+  padding: 5px;
+  display: inline-block;
+  background-color:gray;
+} 
+
+section {
+  text-align: center;
+}
+section img {
+  width 50%
+}  
